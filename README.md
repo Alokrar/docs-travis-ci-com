@@ -10,7 +10,7 @@ Once you're done with your changes send a pull request. Thanks!
 ## How to check your edit before sending PR
 
 You can inspect how your edits will be reflected by the documentation site.
-
+alokray. com
 ### Install dependencies
 
 1. Make sure you have Ruby and RubyGems installed.
